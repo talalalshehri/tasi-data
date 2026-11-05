@@ -5,11 +5,11 @@
   "symbol": "4327",
   "timing": "on_time",
   "net": null,
-  "excess": -0.492,
+  "excess": null,
   "warn": [
    "low_close"
   ],
-  "status": "closed"
+  "status": "unresolved"
  },
  {
   "kind": "avoid",
@@ -17,11 +17,11 @@
   "symbol": "6014",
   "timing": "on_time",
   "net": null,
-  "excess": 2.868,
+  "excess": null,
   "warn": [
    "vol_spike"
   ],
-  "status": "closed"
+  "status": "unresolved"
  },
  {
   "kind": "avoid",
@@ -29,11 +29,11 @@
   "symbol": "4348",
   "timing": "on_time",
   "net": null,
-  "excess": -1.067,
+  "excess": null,
   "warn": [
    "vol_spike"
   ],
-  "status": "closed"
+  "status": "unresolved"
  },
  {
   "kind": "avoid",
@@ -41,11 +41,11 @@
   "symbol": "4165",
   "timing": "on_time",
   "net": null,
-  "excess": -1.669,
+  "excess": null,
   "warn": [
    "vol_spike"
   ],
-  "status": "closed"
+  "status": "unresolved"
  },
  {
   "kind": "avoid",
@@ -53,11 +53,11 @@
   "symbol": "8300",
   "timing": "on_time",
   "net": null,
-  "excess": 1.952,
+  "excess": null,
   "warn": [
    "vol_spike"
   ],
-  "status": "closed"
+  "status": "unresolved"
  },
  {
   "kind": "avoid",
@@ -65,11 +65,11 @@
   "symbol": "1301",
   "timing": "on_time",
   "net": null,
-  "excess": -0.049,
+  "excess": null,
   "warn": [
    "vol_spike"
   ],
-  "status": "closed"
+  "status": "unresolved"
  },
  {
   "kind": "avoid",
@@ -77,11 +77,11 @@
   "symbol": "8280",
   "timing": "on_time",
   "net": null,
-  "excess": 3.94,
+  "excess": null,
   "warn": [
    "vol_spike"
   ],
-  "status": "closed"
+  "status": "unresolved"
  },
  {
   "kind": "avoid",
@@ -89,11 +89,11 @@
   "symbol": "4161",
   "timing": "on_time",
   "net": null,
-  "excess": -1.651,
+  "excess": null,
   "warn": [
    "low_close"
   ],
-  "status": "closed"
+  "status": "unresolved"
  },
  {
   "kind": "avoid",
@@ -101,11 +101,11 @@
   "symbol": "4338",
   "timing": "on_time",
   "net": null,
-  "excess": 2.438,
+  "excess": null,
   "warn": [
    "low_close"
   ],
-  "status": "closed"
+  "status": "unresolved"
  },
  {
   "kind": "avoid",
@@ -113,11 +113,11 @@
   "symbol": "4013",
   "timing": "on_time",
   "net": null,
-  "excess": 0.675,
+  "excess": null,
   "warn": [
    "vol_spike"
   ],
-  "status": "closed"
+  "status": "unresolved"
  },
  {
   "kind": "avoid",
@@ -125,11 +125,11 @@
   "symbol": "4347",
   "timing": "on_time",
   "net": null,
-  "excess": 3.303,
+  "excess": null,
   "warn": [
    "low_close"
   ],
-  "status": "closed"
+  "status": "unresolved"
  },
  {
   "kind": "avoid",
@@ -137,11 +137,11 @@
   "symbol": "8020",
   "timing": "on_time",
   "net": null,
-  "excess": -2.592,
+  "excess": null,
   "warn": [
    "vol_spike"
   ],
-  "status": "closed"
+  "status": "unresolved"
  },
  {
   "kind": "avoid",
@@ -149,11 +149,11 @@
   "symbol": "2320",
   "timing": "on_time",
   "net": null,
-  "excess": 1.429,
+  "excess": null,
   "warn": [
    "low_close"
   ],
-  "status": "closed"
+  "status": "unresolved"
  },
  {
   "kind": "avoid",
@@ -161,11 +161,11 @@
   "symbol": "4144",
   "timing": "on_time",
   "net": null,
-  "excess": -1.333,
+  "excess": null,
   "warn": [
    "low_close"
   ],
-  "status": "closed"
+  "status": "unresolved"
  },
  {
   "kind": "avoid",
@@ -173,11 +173,11 @@
   "symbol": "2287",
   "timing": "on_time",
   "net": null,
-  "excess": 0.909,
+  "excess": null,
   "warn": [
    "vol_spike"
   ],
-  "status": "closed"
+  "status": "unresolved"
  },
  {
   "kind": "avoid",
@@ -185,11 +185,11 @@
   "symbol": "4141",
   "timing": "on_time",
   "net": null,
-  "excess": 0.537,
+  "excess": null,
   "warn": [
    "low_close"
   ],
-  "status": "closed"
+  "status": "unresolved"
  },
  {
   "kind": "avoid",
@@ -197,11 +197,11 @@
   "symbol": "4322",
   "timing": "on_time",
   "net": null,
-  "excess": -5.732,
+  "excess": null,
   "warn": [
    "vol_spike"
   ],
-  "status": "closed"
+  "status": "unresolved"
  },
  {
   "kind": "avoid",
@@ -209,11 +209,11 @@
   "symbol": "4072",
   "timing": "on_time",
   "net": null,
-  "excess": 3.01,
+  "excess": null,
   "warn": [
    "low_close"
   ],
-  "status": "closed"
+  "status": "unresolved"
  },
  {
   "kind": "avoid",
@@ -221,11 +221,11 @@
   "symbol": "6020",
   "timing": "on_time",
   "net": null,
-  "excess": -1.933,
+  "excess": null,
   "warn": [
    "vol_spike"
   ],
-  "status": "closed"
+  "status": "unresolved"
  },
  {
   "kind": "avoid",
@@ -233,11 +233,11 @@
   "symbol": "1810",
   "timing": "on_time",
   "net": null,
-  "excess": 3.281,
+  "excess": null,
   "warn": [
    "low_close"
   ],
-  "status": "closed"
+  "status": "unresolved"
  },
  {
   "kind": "avoid",
@@ -245,11 +245,11 @@
   "symbol": "4270",
   "timing": "on_time",
   "net": null,
-  "excess": -3.025,
+  "excess": null,
   "warn": [
    "low_close"
   ],
-  "status": "closed"
+  "status": "unresolved"
  },
  {
   "kind": "avoid",
