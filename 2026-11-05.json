@@ -1,0 +1,1349 @@
+{
+ "schema": 2,
+ "asof": "2026-11-05",
+ "saved_at": "2026-11-05T20:46:48+00:00",
+ "inputs": {
+  "market": "live",
+  "saved": null,
+  "signal_session": "2026-11-05",
+  "prices": "yahoo_daily_unadjusted",
+  "dates": "tradingview_announced"
+ },
+ "versions": {
+  "advice": "dc3ed592c39f3319",
+  "daily": "a871a8a8b5fc441e",
+  "trend_high": "b4fe4b739c722ffc",
+  "holding": "f2dd5fd6eab66085",
+  "lab": "7de8ead4ac06dcc4"
+ },
+ "eligibility": {
+  "advice": {
+   "day/main": "research",
+   "week/main": "research",
+   "month/main": "research",
+   "long/main": "research"
+  },
+  "trend_high": {
+   "month/main": "recheck"
+  },
+  "exdiv": {
+   "week/main": "recheck"
+  },
+  "swing": {
+   "week/main": "research"
+  },
+  "lab": {
+   "any/main": "research"
+  },
+  "short_screens": {
+   "day/main": "research"
+  }
+ },
+ "decision": {
+  "month": {
+   "eligible": false,
+   "buys": [],
+   "reason": "research"
+  }
+ },
+ "execution": {
+  "commission": 0.00155,
+  "spread_bps": 10.0,
+  "slippage_bps": 5.0,
+  "min_daily_value": 1000000.0,
+  "max_participation": 0.01,
+  "position_sar": 10000.0,
+  "entry": "next session's open",
+  "exits": {
+   "exdiv": [
+    3,
+    5
+   ],
+   "basket": "the next month-end close",
+   "avoid": "the next session's close",
+   "lab": "each strategy's own"
+  }
+ },
+ "prospective": {
+  "declared": "2026-11-04",
+  "unit": "signal dates (all picks of one day are one observation)",
+  "min_dates": {
+   "exdiv": 30,
+   "basket": 12,
+   "lab": 30
+  },
+  "min_months": 6,
+  "bar": "mean net after the shared execution engine's costs > 0 and ahead of the same comparator, t >= 2 over dates",
+  "counted": "every recorded pick: closed, open (marked at the last close), not executed and unresolved alike",
+  "suspend": [
+   "journal saved after the next session's open (late)",
+   "stale or mismatched inputs on the signal day",
+   "unresolved picks above 20% of a rule's picks",
+   "live mean excess below zero once min_dates is reached"
+  ]
+ },
+ "rebalance_session": false,
+ "basket": null,
+ "exdiv": [],
+ "avoid": [
+  {
+   "symbol": "6018",
+   "price": 8.2,
+   "warn": [
+    "vol_spike"
+   ],
+   "avg_value": 9177831.12548318
+  },
+  {
+   "symbol": "1325",
+   "price": 2.99,
+   "warn": [
+    "low_close"
+   ],
+   "avg_value": 64056914.255397774
+  },
+  {
+   "symbol": "6014",
+   "price": 44.08,
+   "warn": [
+    "vol_spike"
+   ],
+   "avg_value": 3390358.935909462
+  },
+  {
+   "symbol": "8300",
+   "price": 13.53,
+   "warn": [
+    "vol_spike"
+   ],
+   "avg_value": 2971265.849645138
+  },
+  {
+   "symbol": "8280",
+   "price": 12.88,
+   "warn": [
+    "vol_spike"
+   ],
+   "avg_value": 2722720.9639936923
+  },
+  {
+   "symbol": "4147",
+   "price": 6.75,
+   "warn": [
+    "vol_spike"
+   ],
+   "avg_value": 7321942.866851186
+  },
+  {
+   "symbol": "4165",
+   "price": 124.4,
+   "warn": [
+    "low_close"
+   ],
+   "avg_value": 6767386.490916443
+  },
+  {
+   "symbol": "7203",
+   "price": 598.5,
+   "warn": [
+    "low_close"
+   ],
+   "avg_value": 68177805.875
+  },
+  {
+   "symbol": "4300",
+   "price": 17.99,
+   "warn": [
+    "low_close"
+   ],
+   "avg_value": 10712290.193140794
+  },
+  {
+   "symbol": "4145",
+   "price": 22.26,
+   "warn": [
+    "vol_spike"
+   ],
+   "avg_value": 2106593.250305748
+  },
+  {
+   "symbol": "1830",
+   "price": 75.0,
+   "warn": [
+    "low_close"
+   ],
+   "avg_value": 13816382.235341644
+  },
+  {
+   "symbol": "2080",
+   "price": 62.0,
+   "warn": [
+    "vol_spike"
+   ],
+   "avg_value": 9825622.420246888
+  },
+  {
+   "symbol": "1324",
+   "price": 37.5,
+   "warn": [
+    "vol_spike"
+   ],
+   "avg_value": 6101109.509523964
+  },
+  {
+   "symbol": "4200",
+   "price": 110.2,
+   "warn": [
+    "low_close"
+   ],
+   "avg_value": 22187364.30882492
+  },
+  {
+   "symbol": "4012",
+   "price": 3.16,
+   "warn": [
+    "low_close"
+   ],
+   "avg_value": 1497544.8583459854
+  },
+  {
+   "symbol": "4018",
+   "price": 106.0,
+   "warn": [
+    "vol_spike"
+   ],
+   "avg_value": 2271173.5392982485
+  },
+  {
+   "symbol": "4142",
+   "price": 98.7,
+   "warn": [
+    "low_close"
+   ],
+   "avg_value": 18670547.296424102
+  },
+  {
+   "symbol": "2130",
+   "price": 14.5,
+   "warn": [
+    "low_close"
+   ],
+   "avg_value": 14120911.388373565
+  },
+  {
+   "symbol": "1320",
+   "price": 47.54,
+   "warn": [
+    "low_close"
+   ],
+   "avg_value": 16416843.890139008
+  },
+  {
+   "symbol": "4021",
+   "price": 4.49,
+   "warn": [
+    "vol_spike"
+   ],
+   "avg_value": 2095575.2258327962
+  },
+  {
+   "symbol": "4015",
+   "price": 114.2,
+   "warn": [
+    "low_close"
+   ],
+   "avg_value": 5561503.8936306
+  },
+  {
+   "symbol": "4130",
+   "price": 1.83,
+   "warn": [
+    "vol_spike"
+   ],
+   "avg_value": 10362944.358538633
+  },
+  {
+   "symbol": "2030",
+   "price": 47.02,
+   "warn": [
+    "low_close"
+   ],
+   "avg_value": 6283387.2242330555
+  },
+  {
+   "symbol": "2001",
+   "price": 22.15,
+   "warn": [
+    "low_close"
+   ],
+   "avg_value": 1891090.0993908881
+  },
+  {
+   "symbol": "8150",
+   "price": 6.26,
+   "warn": [
+    "vol_spike"
+   ],
+   "avg_value": 2039590.5918856622
+  },
+  {
+   "symbol": "4194",
+   "price": 32.24,
+   "warn": [
+    "vol_spike"
+   ],
+   "avg_value": 1466199.264407921
+  },
+  {
+   "symbol": "8012",
+   "price": 8.65,
+   "warn": [
+    "low_close"
+   ],
+   "avg_value": 829141.9834676266
+  },
+  {
+   "symbol": "4080",
+   "price": 6.94,
+   "warn": [
+    "vol_spike"
+   ],
+   "avg_value": 1095397.9261778116
+  },
+  {
+   "symbol": "4050",
+   "price": 35.7,
+   "warn": [
+    "low_close"
+   ],
+   "avg_value": 5808596.771621132
+  },
+  {
+   "symbol": "4240",
+   "price": 11.45,
+   "warn": [
+    "low_close"
+   ],
+   "avg_value": 10314249.396932745
+  },
+  {
+   "symbol": "2070",
+   "price": 23.87,
+   "warn": [
+    "low_close"
+   ],
+   "avg_value": 19323739.64922438
+  },
+  {
+   "symbol": "4004",
+   "price": 58.75,
+   "warn": [
+    "low_close"
+   ],
+   "avg_value": 16683955.37625904
+  },
+  {
+   "symbol": "4322",
+   "price": 6.17,
+   "warn": [
+    "low_close"
+   ],
+   "avg_value": 12738186.09275961
+  },
+  {
+   "symbol": "1303",
+   "price": 10.31,
+   "warn": [
+    "low_close"
+   ],
+   "avg_value": 55635228.70435939
+  },
+  {
+   "symbol": "4328",
+   "price": 1.71,
+   "warn": [
+    "low_close"
+   ],
+   "avg_value": 33247300.31138565
+  },
+  {
+   "symbol": "6040",
+   "price": 32.2,
+   "warn": [
+    "low_close"
+   ],
+   "avg_value": 4056430.18541708
+  },
+  {
+   "symbol": "4193",
+   "price": 9.08,
+   "warn": [
+    "low_close"
+   ],
+   "avg_value": 3379361.4373699664
+  },
+  {
+   "symbol": "8050",
+   "price": 6.21,
+   "warn": [
+    "low_close"
+   ],
+   "avg_value": 1947773.6571768285
+  },
+  {
+   "symbol": "4270",
+   "price": 42.6,
+   "warn": [
+    "low_close"
+   ],
+   "avg_value": 7855516.668003654
+  },
+  {
+   "symbol": "1213",
+   "price": 10.4,
+   "warn": [
+    "low_close"
+   ],
+   "avg_value": 8389489.78989892
+  }
+ ],
+ "announced": {
+  "4016": {
+   "earn_next": "2027-03-29",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "1030": {
+   "earn_next": "2027-02-02",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "2283": {
+   "earn_next": "2027-03-15",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "1050": {
+   "earn_next": "2027-02-02",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "6015": {
+   "earn_next": "2027-02-17",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "4190": {
+   "earn_next": "2026-11-05",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "6018": {
+   "earn_next": "2027-03-08",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "2083": {
+   "earn_next": "2027-03-03",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "1010": {
+   "earn_next": "2027-02-15",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "6014": {
+   "earn_next": "2027-03-30",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "2286": {
+   "earn_next": "2027-03-08",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "4030": {
+   "earn_next": "2027-03-17",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "2222": {
+   "earn_next": "2027-03-08",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "7010": {
+   "earn_next": "2027-02-22",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "7211": {
+   "earn_next": "2027-02-02",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "1180": {
+   "earn_next": "2027-02-03",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "1060": {
+   "earn_next": "2027-02-11",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "1080": {
+   "earn_next": "2027-02-25",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "2190": {
+   "earn_next": "2027-03-16",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "7020": {
+   "earn_next": "2027-02-22",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "8060": {
+   "earn_next": "2027-03-17",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "4263": {
+   "earn_next": "2027-03-08",
+   "ex_next": "2026-11-10",
+   "pay_next": "2026-11-24",
+   "amt_next": 2.17000008
+  },
+  "2050": {
+   "earn_next": "2026-11-05",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "2284": {
+   "earn_next": "2027-03-09",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "3040": {
+   "earn_next": "2027-02-23",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "4164": {
+   "earn_next": "2027-03-15",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "4147": {
+   "earn_next": "2026-12-02",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "4348": {
+   "earn_next": null,
+   "ex_next": "2026-11-12",
+   "pay_next": "2027-01-07",
+   "amt_next": 0.104999997
+  },
+  "2380": {
+   "earn_next": "2027-03-16",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "4165": {
+   "earn_next": "2027-03-11",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "7203": {
+   "earn_next": "2027-03-01",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "2280": {
+   "earn_next": "2027-01-18",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "1120": {
+   "earn_next": "2027-02-03",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "2285": {
+   "earn_next": "2027-03-22",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "4280": {
+   "earn_next": "2027-03-31",
+   "ex_next": "2027-01-03",
+   "pay_next": "2027-01-14",
+   "amt_next": 0.0700000003
+  },
+  "4013": {
+   "earn_next": "2027-02-15",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "4338": {
+   "earn_next": "2027-04-01",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "2381": {
+   "earn_next": "2026-11-08",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "4162": {
+   "earn_next": "2026-11-09",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "5110": {
+   "earn_next": "2026-11-11",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "3080": {
+   "earn_next": "2027-03-08",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "1150": {
+   "earn_next": "2027-02-03",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "4300": {
+   "earn_next": "2027-03-24",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "4325": {
+   "earn_next": "2027-03-29",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "4161": {
+   "earn_next": "2026-11-10",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "8010": {
+   "earn_next": "2026-11-05",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "2270": {
+   "earn_next": "2027-01-19",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "2020": {
+   "earn_next": "2027-03-01",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "4192": {
+   "earn_next": "2027-03-18",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "1830": {
+   "earn_next": "2027-02-08",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "4150": {
+   "earn_next": "2027-03-09",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "3004": {
+   "earn_next": "2026-11-05",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "7200": {
+   "earn_next": "2026-11-09",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "1020": {
+   "earn_next": "2027-02-10",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "3003": {
+   "earn_next": "2026-11-05",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "4163": {
+   "earn_next": "2027-03-22",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "8313": {
+   "earn_next": "2027-03-03",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "4200": {
+   "earn_next": "2027-01-19",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "8250": {
+   "earn_next": "2027-03-02",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "2382": {
+   "earn_next": "2026-11-09",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "3060": {
+   "earn_next": "2027-03-17",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "2223": {
+   "earn_next": "2027-02-15",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "3030": {
+   "earn_next": "2027-03-17",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "4260": {
+   "earn_next": "2026-11-05",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "7030": {
+   "earn_next": "2027-02-16",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "8200": {
+   "earn_next": "2027-03-22",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "4007": {
+   "earn_next": "2026-11-10",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "3020": {
+   "earn_next": "2027-02-17",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "4321": {
+   "earn_next": "2026-11-10",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "1211": {
+   "earn_next": "2026-11-05",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "1140": {
+   "earn_next": "2027-02-09",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "2370": {
+   "earn_next": null,
+   "ex_next": "2026-12-07",
+   "pay_next": "2026-12-17",
+   "amt_next": 0.600000024
+  },
+  "4146": {
+   "earn_next": "2027-03-11",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "2250": {
+   "earn_next": "2027-02-04",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "2290": {
+   "earn_next": "2027-01-20",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "1833": {
+   "earn_next": "2027-04-01",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "4014": {
+   "earn_next": "2027-04-01",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "2010": {
+   "earn_next": "2027-03-02",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "7040": {
+   "earn_next": "2026-11-05",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "4012": {
+   "earn_next": "2027-02-23",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "4003": {
+   "earn_next": "2027-02-16",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "8230": {
+   "earn_next": "2027-03-01",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "3092": {
+   "earn_next": "2026-11-05",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "1835": {
+   "earn_next": "2027-04-01",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "4020": {
+   "earn_next": "2026-11-11",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "4018": {
+   "earn_next": "2026-12-02",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "2330": {
+   "earn_next": "2027-02-24",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "7202": {
+   "earn_next": "2027-02-18",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "8020": {
+   "earn_next": "2027-03-08",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "4005": {
+   "earn_next": "2027-03-02",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "4002": {
+   "earn_next": "2027-03-09",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "6002": {
+   "earn_next": "2027-03-10",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "4142": {
+   "earn_next": "2027-03-15",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "1322": {
+   "earn_next": "2027-03-08",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "8210": {
+   "earn_next": "2027-02-03",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "3010": {
+   "earn_next": "2027-03-01",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "1834": {
+   "earn_next": "2026-11-09",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "1111": {
+   "earn_next": "2027-03-01",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "4017": {
+   "earn_next": "2026-11-05",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "8030": {
+   "earn_next": "2027-03-24",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "4261": {
+   "earn_next": "2026-11-11",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "1320": {
+   "earn_next": "2026-11-05",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "3002": {
+   "earn_next": "2026-11-05",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "1831": {
+   "earn_next": "2026-11-05",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "4090": {
+   "earn_next": "2026-11-05",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "4081": {
+   "earn_next": "2027-02-03",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "4015": {
+   "earn_next": "2027-03-02",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "2081": {
+   "earn_next": "2027-03-15",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "1212": {
+   "earn_next": "2027-03-03",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "6004": {
+   "earn_next": "2027-03-24",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "4265": {
+   "earn_next": "2026-11-05",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "1202": {
+   "earn_next": "2026-11-11",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "4019": {
+   "earn_next": "2026-11-10",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "2310": {
+   "earn_next": "2026-11-05",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "2350": {
+   "earn_next": "2027-02-25",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "2082": {
+   "earn_next": "2026-11-05",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "2001": {
+   "earn_next": "2027-03-02",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "2060": {
+   "earn_next": "2026-11-05",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "1304": {
+   "earn_next": "2026-12-02",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "3091": {
+   "earn_next": "2026-11-05",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "3050": {
+   "earn_next": "2026-11-05",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "4291": {
+   "earn_next": "2027-01-07",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "6010": {
+   "earn_next": "2027-02-15",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "2040": {
+   "earn_next": "2027-02-17",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "3005": {
+   "earn_next": "2026-11-05",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "4001": {
+   "earn_next": "2026-11-05",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "4050": {
+   "earn_next": "2026-11-05",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "4240": {
+   "earn_next": "2026-11-05",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "4009": {
+   "earn_next": "2026-11-05",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "2070": {
+   "earn_next": "2027-03-30",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "2200": {
+   "earn_next": "2027-04-01",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "4006": {
+   "earn_next": "2026-11-11",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "7204": {
+   "earn_next": "2026-11-09",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "6001": {
+   "earn_next": "2027-03-02",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "2287": {
+   "earn_next": "2027-04-01",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "1810": {
+   "earn_next": "2026-11-11",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "4031": {
+   "earn_next": "2026-11-05",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "4004": {
+   "earn_next": "2027-03-23",
+   "ex_next": "2026-11-10",
+   "pay_next": "2026-11-29",
+   "amt_next": 0.5
+  },
+  "4264": {
+   "earn_next": "2027-03-17",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "4322": {
+   "earn_next": "2027-03-03",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "2170": {
+   "earn_next": "2027-03-23",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "4008": {
+   "earn_next": "2026-11-05",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "4262": {
+   "earn_next": "2027-03-02",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "1214": {
+   "earn_next": "2027-03-16",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "2281": {
+   "earn_next": "2026-11-05",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "6017": {
+   "earn_next": "2026-11-17",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "1302": {
+   "earn_next": "2027-03-01",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "3090": {
+   "earn_next": "2027-03-24",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "2084": {
+   "earn_next": "2026-11-05",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "4292": {
+   "earn_next": "2026-12-09",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "4083": {
+   "earn_next": "2027-02-11",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "4193": {
+   "earn_next": "2027-03-09",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "4191": {
+   "earn_next": "2026-11-05",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "4011": {
+   "earn_next": "2026-11-05",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "4071": {
+   "earn_next": "2026-11-10",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  },
+  "4210": {
+   "earn_next": "2026-11-10",
+   "ex_next": null,
+   "pay_next": null,
+   "amt_next": null
+  }
+ },
+ "lab": []
+}
