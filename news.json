@@ -1,7 +1,7 @@
 {
  "v": 1,
- "id": "33a2271152ce",
- "fetched": "2026-11-06T20:39+03:00",
+ "id": "0ac2ce1d706f",
+ "fetched": "2026-11-07T01:45+03:00",
  "items": {
   "world": {
    "en": [
@@ -68,16 +68,6 @@
    ],
    "ar": [
     {
-     "id": "272ceaa82372",
-     "title": "الأسهم الأوروبية ترتفع بحذر وسط ترقب قرار الفائدة",
-     "url": "https://news.google.com/rss/articles/CBMi2wNBVV95cUxPbDdlWlZwNnhQN3VlbnUxSmpfTFloQXZxeGpnSXZIOUNyZDR0ZndqQUxqcWFMOU1kemFSS0NMckJaT2dfOUlKMVBTcFVxSVBCUFd1WGNwaUViOC15eE5uZHVnenFfczZ2Wm45ZjlNVVQ3UTRZem9ZSzZSTXBZeElJZFV5UEN3dkhXeG1hbUNlMjNxU3pka1A4NkZpU2JLYVdianB4VnBDc2ZxbEN3RER1WHJ0MlFlYnZiU3hBVGR5bGhYeVlQYzhqU1JkRklCcDM5c0ZTNFJOQ3hCUC0xR3JVcTRPVEpXclpiTGdPcHBORHRrWURUMzhwNm5oWTBaTThkRU1MSkFWQW9sNFZ2NV8xaTVCX1R0dFJfRWJnaFdCaDFrUEt5QnZITVZmOHk5MlZveTBQdHVvYnZGdlRoTERKdzBHZzNmUU1ReEItbWdjMzJqdEYxTlhXUGpMbkxzVVpsTFNEMFdqcjU5c1M1UnduQ0dWQmtFcVVvUDdOcjZNR1FQRHdYQmZjSDJBa2JrNmcxSzIxNXpyczZpNG02RjV0ejY4dEZ0RC1sZXZmV3NqX0kzY2FOUGpWVkktSEI2UjREcmxqNUNETjlyc2FjOG1IdUhQaGlvWGNfNVZF?oc=5",
-     "source": "الشرق الأوسط",
-     "date": "2026-11-06",
-     "fp": "83e1ea30a7a8",
-     "seen": "2026-11-06T20:39+03:00",
-     "rev": 0
-    },
-    {
      "id": "60bcba66dcbd",
      "title": "ويليامز عضو الاحتياطي الفيدرالي: لا داعي للتسرع في قرارات الفائدة",
      "url": "https://news.google.com/rss/articles/CBMirgRBVV95cUxNV0VzMVFCNFVpSW5MWHNQcDZUMGFjeGZwV0RqU0g5emNhaVVJTkFGRUhWMGRoMk9aelVLbGdCSVo2MTlNU0dWei1RUlpaX3NmSmhnWS1GUzBvMlpfd1QyMEVQMnRMaV9NRnJOZDRhalV2UlgyV2tSN0VZeVo4aThHMGdRYnFtbzJwdXN4WmdJYUJqYXNOc1o4S3JCcDlVQnR1UXpjcnlJRXFlUVlyOWxDYjQ0aVVJeWlWcmQwNHJUSEI5MWdMMldualNQUnVTV3NTcWxrS1plUUh5UDd2aUNwU3ZIdmUzckNHc2ZkTW5qWDNVVkpKRlI0RzJ1cHh1QkI1V0NZVk9TRkk2V2Fqcm8tM0pYbWtLWTNlLXRfR20tTjVtU2xQTGtOMWpQSWowdmM2X2ZyRW00cnJVb2V3UllDeG9YZWRsclFjWVFZaGJQakpiZkNMV2hxcGFNQzZhQkprMmN3d3N6TEdHOVVFVFFwaWlRZGN5MVhVX3F2MVgtSjFsWnFlT3E3N1BBNkkxaWZQNmVseTZOMkV2emdaMGUwaGR5dmJVREdDM2w1QTlrWnZ4b0lhQXd4ZHdyUmlkbXhRLVgzVG55RG04dU82dzBxTWR0YWJDWkpjVHNpcEJRc3g4M2NHeFNHZU5mOUF6T2swUjVnNXZ3akdwLU8zSE94UjVZS1daQ3dSOEx0bVVwRXdXdURfY1ZjcnMxbVFNQkZ1TEctbEU5QlJrTTNtSmc?oc=5",
@@ -118,6 +108,16 @@
      "rev": 0
     },
     {
+     "id": "514b64ff1dc9",
+     "title": "نائب رئيس «المركزي الأوروبي»: قرارات الفائدة لا تقستند على أسعار الطاقة فقط",
+     "url": "https://news.google.com/rss/articles/CBMi-ARBVV95cUxQRHhhSGNYVWxuMk84VzRyMU5fYi1WWC1iNUNjQ3AwZERndXlDZVpWUUNlc2hxQ1VFU3JRckRKbEZteFFHVHJCQWNtUlJfQWVCUmZQYVhpb2VIRWlYTXpIYUVtbmkwc1RVREw2R0QwNUZtYmQ5Y0xGN01fM0tzS1h0MW1hLW8xZmltaFQ1N0FVM1p1ZFVLSHMtSkVuTWMwa09JUmlERGh5cVZuUnNZTWdYMC1xMU5STWRfdVdNNFVVUEpDUnlySGhjSWRsYVQxNy00NXJnUVhyYVNKeGZWT3J3dzdsY3BzQVpISHI2Y1JYaGNXUzNvTjY3RGc2RlBkUkszNnRFekRrWHJ3WWp0M0NNeDRjTnJCRDN6WXJ3Tjd3algxNGpGYklKd0QtZG92bExzd3NVYl9QNWl1U0pQVWMzeFg0UjZWR0lnN0pGbXdRNzA3MF9LS3lxbkYwZzZlZ3FPcWZIbzE3cmZRQk1ock9PU2IwbDNHSWtDNHQtSjNoOGY1U3lFOUdFdHhsZkpoSnpSWDVxZGVGeGNMam5Ub1c2NC16VHJ5QkNyYmFQMU5abFJSdExHM2I4VEJER1JJRU9ZbGl5dlNEcWlaV2FBN0JiQ3EyZU1YdDk4VFZMVE1waEJob3lvaFMtOFJxSkhYRTNhckx5NV9HM1VncGNHa21SSnl0T0ptdDF3UmVvSGVTOWNyaU4xSVppcXBkdHZWM19iSlBtT3oxQUVvelp6azFFUVF2cjU4blVHdk5DcmZZZjBQUDl1WHdadUFZblpPaUJkbjBnTXZxQUUxSXVfZ0dqblNaempaTDNsTFdiZ3ZpV252SERiU0U1OA?oc=5",
+     "source": "الشرق الأوسط",
+     "date": "2026-11-05",
+     "fp": "7be424b0991c",
+     "seen": "2026-11-07T01:45+03:00",
+     "rev": 0
+    },
+    {
      "id": "16b69ebdb590",
      "title": "بنك إنجلترا يرفع الفائدة إلى 4% بزيادة 25 نقطة أساس",
      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03MTZGM0JqeVBjbERTb0lxd0M2bTZkM2Z4dlJQZHBleHA5NUJPZzQwVHREREZHSXd6c1BsR1ExbjEwU2ZuY2dDX1RXaVItZDFqRTRtUkctV3hnOTZFZEFTMm5FWTBJS1NuTmZHSA?oc=5",
@@ -138,16 +138,6 @@
      "source": "Investing.com",
      "date": "2026-11-05",
      "fp": "40457305f28b",
-     "seen": "2026-11-06T01:11+03:00",
-     "rev": 0
-    },
-    {
-     "id": "5c61e073070f",
-     "title": "Saudi Arabia shares higher at close of trade; Tadawul All Share up 0.56%",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSkZZRXV6Q0ZBdC1NRDFTa1VoMFYxVkdFV0k2ME40UXA4SzV3V2JwRTlUZFRJMlN2VWxaenBzTUh6cnV5Q3pSVkFDTUNKUTBFRjF5WU5QYWdLUlJGMldpbFRjZXdtRzllaE9MUmpNNkFKbFYyNV9sSmNNTi1DWS1EX2g2RkU2bXFkMmk0Nkc0d3kzOHNyZW42cXZFa2FGazdoblp2SmFRM2liY1dDYUdNLWxFaF9ZV2pPQUViVG4xMEZNd0U?oc=5",
-     "source": "Investing.com UK",
-     "date": "2026-11-05",
-     "fp": "0fca39ea58ed",
      "seen": "2026-11-06T01:11+03:00",
      "rev": 0
     },
@@ -190,9 +180,29 @@
      "fp": "0a36d6896344",
      "seen": "2026-11-06T20:39+03:00",
      "rev": 0
+    },
+    {
+     "id": "b8345b20e037",
+     "title": "Saudi Arabia shares higher at close of trade; Tadawul All Share up 1.65% By Investing.com",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVUFySGpva191dE8xZllaajJxcndFcFVLbE1QZmJ1VDBPTmNhZDhhcm1WM0tqcWtfV1cyMnZadkdLX0ZwSjdITmxUaE1adFRQclFxQUVoWHhSSkpIWFZ6Tko5Y19VTzhsR2dGZ2NoREQwRWRaTWpIUjNIYUwxZUVadGh0aGdmVWJ4UTZMZEduUzVrRmlkVThXdkc4Yi1Ub3hJdGstSTMwaF9ZRUw0R3RMdFMweTYtRDZOREF5dzN3R0FqRVU?oc=5",
+     "source": "Investing.com India",
+     "date": "2026-11-04",
+     "fp": "d830ed0de49f",
+     "seen": "2026-11-07T01:45+03:00",
+     "rev": 0
     }
    ],
    "ar": [
+    {
+     "id": "25090d5c32dc",
+     "title": "رئيس تداول: نستهدف تعزيز الترابط بين السوق السعودية ونظيرتها الصينية",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZeUZtVDdKZk9hX0RLVEttVWdFbHRIV29wdDEyRkpsUUU2MmppalJSNWNzSkRVeU90LWdYWVlSU0dOQTF0a2R3M0JzOHJPY0EzSHhqc3lDZXkwN1NWUXctOFB5MHg2a3Q1VlE?oc=5",
+     "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+     "date": "2026-11-06",
+     "fp": "49d252ea8627",
+     "seen": "2026-11-07T01:45+03:00",
+     "rev": 0
+    },
     {
      "id": "8a51afc2ddfe",
      "title": "السوق السعودية ترتفع 1.7 % وتسجل أعلى إغلاق في أسبوعين",
@@ -204,13 +214,23 @@
      "rev": 1
     },
     {
-     "id": "134e87f17b4c",
-     "title": "تداول السعودية تُوافق لـ الأهلي المالية بمزاولة أنشطة صناعة السوق على المراعي والراجحي وسابك",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YUTE5NUMzNmtIbjh0czR6Wkxud29YZzJyTkttYUs3a29rLWJsUVNMVVZEQUJlRzExY3dvVWcwajRvbHJDYlpPbkRHNi11d1BBenNWc3RVbGhGTjRlWXl0V1VERkxMakhacFE?oc=5",
+     "id": "d2ee68f17a70",
+     "title": "لماذا تتجه هيئة السوق لتقييد التداولات الخوارزمية؟ وما أثرها على السيولة؟",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11LWRPci1RUkwxUHFBYmRVb1o1VXNCTkpFeHAybFRXU2Yxb3dTOTlLNThvbl8tdzNURG9Vd1pDR3h2R1lhcGxEdjJBam56LTcyMlplblhVdngyc01zZkZYS01SVUNxTTJuTnc?oc=5",
      "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
      "date": "2026-11-06",
-     "fp": "65c274908b32",
-     "seen": "2026-11-06T20:39+03:00",
+     "fp": "dbd86feffc7f",
+     "seen": "2026-11-07T01:45+03:00",
+     "rev": 0
+    },
+    {
+     "id": "6afadee99963",
+     "title": "الأجانب يضخون 811 مليون ريال لشراء أسهم 160 شركة في سوق الأسهم السعودية في أسبوع.. تعرف على تفاصيل تحركاتهم الأسبوعية وأسماء الشركات التي اح…",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTURrUzA3c1owZmdvU3FZdlpsaG93Ty1FVGozTEtuZHgyallSZE11Rlc3Nm1JN05qaG5zN3l4YXBoOU1kSVlwZUQ5M2FKdDZNalZVYTNDY2RVYjl5YnRKaVMzd1pDV2JpVHFIb1BQb2dLVnJmUXFsNmQ0YmRkQzZoNjEzVkVURHloU1VZZjc3YXVmVzQ4dmFWa3BTRUlhUDRXYzlUZmdXMGNxMHNTOTFoMFJvOFd0RGVPQXRQZnFwdkNSWkgxUE5qaXQtTjZQWjhRbjg1TENVOERLbGc5VVo5Yg?oc=5",
+     "source": "صحيفة مال",
+     "date": "2026-11-06",
+     "fp": "2d80905dac1c",
+     "seen": "2026-11-07T01:45+03:00",
      "rev": 0
     },
     {
@@ -224,33 +244,13 @@
      "rev": 0
     },
     {
-     "id": "7e274da89a34",
-     "title": "7 صفقات خاصة في سوق الأسهم السعودية بـ 72.6 مليون ريال",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOU1l1VmNieUtobmpyOWtucFhJTHZGNXRyYUJLREV0a1h2UnJBRnc4QnFJRG5OWm1hbF9Dc1QzTWV2TWRFb21aQkFscjBxUlBPUlFYSEpzMmc5QWFZc0NyX0JNbC00TXIyRVQzQ2ZZeTVmb09XZGFfXzBVNEV3X1hmZHBBZEppZXZ4YjhmQV9mVWViMGc1a29EWWVjTm9wXzdQNjRfaVFvMVJpMW1yaTB6SkhWVnVZMXh4WVp2ek1feU5xbWdvOTBUUGVWTk9GeEF3T3E4WEtyY1phUzhJd2stS1EwSEVMNGlPZ0E?oc=5",
-     "source": "صحيفة مال",
-     "date": "2026-11-05",
-     "fp": "1054745746c5",
-     "seen": "2026-11-05T13:18+03:00",
-     "rev": 0
-    },
-    {
-     "id": "6ca88713202d",
-     "title": "نظرة على أداء السوق السعودي لهذا الأسبوع (آراء محللين بالداخل)",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBRX0hvYnIyT09tSUl4U1E4Z21wNDZQRFJWSlp2cV8wRVNHVFQ3Uk9xV0hhYWllSnk3eFQzTm1Qel9yX1FlTnJmOXR0bnRIUW9POWRnQmxvZC1VYVlTS01RdW9JM1YzUEJ2NVE?oc=5",
+     "id": "2050974b91ae",
+     "title": "تداول السعودية توافق على انتقال أرماح الرياضية ولدن للاستثمار إلى تاسي",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ITkIycDRSa3JZWXBydVF6U3FhSm14YmIwdUoyR29WTGQzT1lQN3BIQ2Q5cVhSUlgtN0NBQkV0RVFSRHZMNTIxTXAtMmFaclZlMTc2UmxhMEdYQmh1YmlqclhBUkVkOVNOWWc?oc=5",
      "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-     "date": "2026-11-05",
-     "fp": "9b1199169c23",
-     "seen": "2026-11-06T20:39+03:00",
-     "rev": 0
-    },
-    {
-     "id": "92c9c64cd1c0",
-     "title": "مؤشر سوق الأسهم السعودية يغلق مرتفعًا عند 10,095 نقطة بتداولات 4.1 مليارات ريال",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1SMkV1eVl5Z0R6eXFEcWRvenlxSzlZYWdIbHVrcDBrelhodDNZb0xCRU1ocjhnYWZNSEQtWFU2MXBEREdMWTNteQ?oc=5",
-     "source": "عاجل",
-     "date": "2026-11-05",
-     "fp": "527d05411c0d",
-     "seen": "2026-11-06T01:11+03:00",
+     "date": "2026-11-06",
+     "fp": "60e908e3151a",
+     "seen": "2026-11-07T01:45+03:00",
      "rev": 0
     }
    ]
