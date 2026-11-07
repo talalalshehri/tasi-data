@@ -1,7 +1,7 @@
 {
  "v": 1,
- "id": "0ac2ce1d706f",
- "fetched": "2026-11-07T01:45+03:00",
+ "id": "b5b37ed3b927",
+ "fetched": "2026-11-07T05:33+03:00",
  "items": {
   "world": {
    "en": [
@@ -68,13 +68,23 @@
    ],
    "ar": [
     {
-     "id": "60bcba66dcbd",
-     "title": "ويليامز عضو الاحتياطي الفيدرالي: لا داعي للتسرع في قرارات الفائدة",
-     "url": "https://news.google.com/rss/articles/CBMirgRBVV95cUxNV0VzMVFCNFVpSW5MWHNQcDZUMGFjeGZwV0RqU0g5emNhaVVJTkFGRUhWMGRoMk9aelVLbGdCSVo2MTlNU0dWei1RUlpaX3NmSmhnWS1GUzBvMlpfd1QyMEVQMnRMaV9NRnJOZDRhalV2UlgyV2tSN0VZeVo4aThHMGdRYnFtbzJwdXN4WmdJYUJqYXNOc1o4S3JCcDlVQnR1UXpjcnlJRXFlUVlyOWxDYjQ0aVVJeWlWcmQwNHJUSEI5MWdMMldualNQUnVTV3NTcWxrS1plUUh5UDd2aUNwU3ZIdmUzckNHc2ZkTW5qWDNVVkpKRlI0RzJ1cHh1QkI1V0NZVk9TRkk2V2Fqcm8tM0pYbWtLWTNlLXRfR20tTjVtU2xQTGtOMWpQSWowdmM2X2ZyRW00cnJVb2V3UllDeG9YZWRsclFjWVFZaGJQakpiZkNMV2hxcGFNQzZhQkprMmN3d3N6TEdHOVVFVFFwaWlRZGN5MVhVX3F2MVgtSjFsWnFlT3E3N1BBNkkxaWZQNmVseTZOMkV2emdaMGUwaGR5dmJVREdDM2w1QTlrWnZ4b0lhQXd4ZHdyUmlkbXhRLVgzVG55RG04dU82dzBxTWR0YWJDWkpjVHNpcEJRc3g4M2NHeFNHZU5mOUF6T2swUjVnNXZ3akdwLU8zSE94UjVZS1daQ3dSOEx0bVVwRXdXdURfY1ZjcnMxbVFNQkZ1TEctbEU5QlJrTTNtSmc?oc=5",
-     "source": "المتداول العربي",
+     "id": "272ceaa82372",
+     "title": "الأسهم الأوروبية ترتفع بحذر وسط ترقب قرار الفائدة",
+     "url": "https://news.google.com/rss/articles/CBMi2wNBVV95cUxPbDdlWlZwNnhQN3VlbnUxSmpfTFloQXZxeGpnSXZIOUNyZDR0ZndqQUxqcWFMOU1kemFSS0NMckJaT2dfOUlKMVBTcFVxSVBCUFd1WGNwaUViOC15eE5uZHVnenFfczZ2Wm45ZjlNVVQ3UTRZem9ZSzZSTXBZeElJZFV5UEN3dkhXeG1hbUNlMjNxU3pka1A4NkZpU2JLYVdianB4VnBDc2ZxbEN3RER1WHJ0MlFlYnZiU3hBVGR5bGhYeVlQYzhqU1JkRklCcDM5c0ZTNFJOQ3hCUC0xR3JVcTRPVEpXclpiTGdPcHBORHRrWURUMzhwNm5oWTBaTThkRU1MSkFWQW9sNFZ2NV8xaTVCX1R0dFJfRWJnaFdCaDFrUEt5QnZITVZmOHk5MlZveTBQdHVvYnZGdlRoTERKdzBHZzNmUU1ReEItbWdjMzJqdEYxTlhXUGpMbkxzVVpsTFNEMFdqcjU5c1M1UnduQ0dWQmtFcVVvUDdOcjZNR1FQRHdYQmZjSDJBa2JrNmcxSzIxNXpyczZpNG02RjV0ejY4dEZ0RC1sZXZmV3NqX0kzY2FOUGpWVkktSEI2UjREcmxqNUNETjlyc2FjOG1IdUhQaGlvWGNfNVZF?oc=5",
+     "source": "الشرق الأوسط",
      "date": "2026-11-06",
-     "fp": "b08ac67168d7",
-     "seen": "2026-11-06T20:39+03:00",
+     "fp": "83e1ea30a7a8",
+     "seen": "2026-11-07T05:33+03:00",
+     "rev": 0
+    },
+    {
+     "id": "3eedcd265698",
+     "title": "أنت صانع القرار .. هل يحرك الفيدرالي الفائدة مع ارتفاع النفط؟",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83R29NeEZUdDRLUTk5NzdSc21JMk16MG9CVXRTQXR0UzZmMmExNWs3SUNvakRyNjVDV0R3cGtycC1zTnFkR09MRWFUS0doUnVVTlJXc0xqYi10aVpIajZFekpEbzNaMEd4dHc?oc=5",
+     "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+     "date": "2026-11-06",
+     "fp": "0af02adca0d0",
+     "seen": "2026-11-07T05:33+03:00",
      "rev": 0
     },
     {
@@ -88,6 +98,16 @@
      "rev": 1
     },
     {
+     "id": "60bcba66dcbd",
+     "title": "ويليامز عضو الاحتياطي الفيدرالي: لا داعي للتسرع في قرارات الفائدة",
+     "url": "https://news.google.com/rss/articles/CBMirgRBVV95cUxNV0VzMVFCNFVpSW5MWHNQcDZUMGFjeGZwV0RqU0g5emNhaVVJTkFGRUhWMGRoMk9aelVLbGdCSVo2MTlNU0dWei1RUlpaX3NmSmhnWS1GUzBvMlpfd1QyMEVQMnRMaV9NRnJOZDRhalV2UlgyV2tSN0VZeVo4aThHMGdRYnFtbzJwdXN4WmdJYUJqYXNOc1o4S3JCcDlVQnR1UXpjcnlJRXFlUVlyOWxDYjQ0aVVJeWlWcmQwNHJUSEI5MWdMMldualNQUnVTV3NTcWxrS1plUUh5UDd2aUNwU3ZIdmUzckNHc2ZkTW5qWDNVVkpKRlI0RzJ1cHh1QkI1V0NZVk9TRkk2V2Fqcm8tM0pYbWtLWTNlLXRfR20tTjVtU2xQTGtOMWpQSWowdmM2X2ZyRW00cnJVb2V3UllDeG9YZWRsclFjWVFZaGJQakpiZkNMV2hxcGFNQzZhQkprMmN3d3N6TEdHOVVFVFFwaWlRZGN5MVhVX3F2MVgtSjFsWnFlT3E3N1BBNkkxaWZQNmVseTZOMkV2emdaMGUwaGR5dmJVREdDM2w1QTlrWnZ4b0lhQXd4ZHdyUmlkbXhRLVgzVG55RG04dU82dzBxTWR0YWJDWkpjVHNpcEJRc3g4M2NHeFNHZU5mOUF6T2swUjVnNXZ3akdwLU8zSE94UjVZS1daQ3dSOEx0bVVwRXdXdURfY1ZjcnMxbVFNQkZ1TEctbEU5QlJrTTNtSmc?oc=5",
+     "source": "المتداول العربي",
+     "date": "2026-11-06",
+     "fp": "b08ac67168d7",
+     "seen": "2026-11-06T20:39+03:00",
+     "rev": 0
+    },
+    {
      "id": "be65fb873890",
      "title": "\"غولدمان ساكس\" يخفض توقعاته لأسعار الذهب وسط ميل الفيدرالي للتشديد النقدي",
      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9GbGRxRU9meWZ2OGk5ZGdtS1l4UVQ1SUYtZXV2a3Ixb0M3RDN6ZTB1SFloeUdHWEh6cVY4eVBwSGxXN0pYTlIwUEtMdGY0ZEJQZmZZNWpLRFdJWnNCZzJsM2FBcldsUXBzWVdYbS14ZDIyQQ?oc=5",
@@ -98,33 +118,13 @@
      "rev": 0
     },
     {
-     "id": "b4e837c40710",
-     "title": "محللون لـ أرقام: تثبيت الفائدة الأقرب في أول اجتماع بقيادة وارش.. والتضخم يُبقي التشديد مطروحاً",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VcEU1QXVlRU41UlM1b2dEZExJZWlSc3pKOEhVMEFBVWxmNHM1cXJMM1JDaU9DYnhEVTBnTk9SdzFpSXc0VUM2LUtLU1QxWlNmd0pLdERnYU1FMnJtczgzQzF4d1doUnZhcXc?oc=5",
-     "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-     "date": "2026-11-05",
-     "fp": "f26bc52ed8f5",
-     "seen": "2026-11-05T10:34+03:00",
-     "rev": 0
-    },
-    {
-     "id": "514b64ff1dc9",
-     "title": "نائب رئيس «المركزي الأوروبي»: قرارات الفائدة لا تقستند على أسعار الطاقة فقط",
-     "url": "https://news.google.com/rss/articles/CBMi-ARBVV95cUxQRHhhSGNYVWxuMk84VzRyMU5fYi1WWC1iNUNjQ3AwZERndXlDZVpWUUNlc2hxQ1VFU3JRckRKbEZteFFHVHJCQWNtUlJfQWVCUmZQYVhpb2VIRWlYTXpIYUVtbmkwc1RVREw2R0QwNUZtYmQ5Y0xGN01fM0tzS1h0MW1hLW8xZmltaFQ1N0FVM1p1ZFVLSHMtSkVuTWMwa09JUmlERGh5cVZuUnNZTWdYMC1xMU5STWRfdVdNNFVVUEpDUnlySGhjSWRsYVQxNy00NXJnUVhyYVNKeGZWT3J3dzdsY3BzQVpISHI2Y1JYaGNXUzNvTjY3RGc2RlBkUkszNnRFekRrWHJ3WWp0M0NNeDRjTnJCRDN6WXJ3Tjd3algxNGpGYklKd0QtZG92bExzd3NVYl9QNWl1U0pQVWMzeFg0UjZWR0lnN0pGbXdRNzA3MF9LS3lxbkYwZzZlZ3FPcWZIbzE3cmZRQk1ock9PU2IwbDNHSWtDNHQtSjNoOGY1U3lFOUdFdHhsZkpoSnpSWDVxZGVGeGNMam5Ub1c2NC16VHJ5QkNyYmFQMU5abFJSdExHM2I4VEJER1JJRU9ZbGl5dlNEcWlaV2FBN0JiQ3EyZU1YdDk4VFZMVE1waEJob3lvaFMtOFJxSkhYRTNhckx5NV9HM1VncGNHa21SSnl0T0ptdDF3UmVvSGVTOWNyaU4xSVppcXBkdHZWM19iSlBtT3oxQUVvelp6azFFUVF2cjU4blVHdk5DcmZZZjBQUDl1WHdadUFZblpPaUJkbjBnTXZxQUUxSXVfZ0dqblNaempaTDNsTFdiZ3ZpV252SERiU0U1OA?oc=5",
-     "source": "الشرق الأوسط",
-     "date": "2026-11-05",
-     "fp": "7be424b0991c",
-     "seen": "2026-11-07T01:45+03:00",
-     "rev": 0
-    },
-    {
-     "id": "16b69ebdb590",
-     "title": "بنك إنجلترا يرفع الفائدة إلى 4% بزيادة 25 نقطة أساس",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03MTZGM0JqeVBjbERTb0lxd0M2bTZkM2Z4dlJQZHBleHA5NUJPZzQwVHREREZHSXd6c1BsR1ExbjEwU2ZuY2dDX1RXaVItZDFqRTRtUkctV3hnOTZFZEFTMm5FWTBJS1NuTmZHSA?oc=5",
-     "source": "صحيفة اخبارنا",
-     "date": "2026-11-05",
-     "fp": "c7ae8f08e3d9",
-     "seen": "2026-11-06T01:11+03:00",
+     "id": "0508922819f2",
+     "title": "سعر الذهب اليوم الجمعة 6 نوفمبر 2026.. عيار 21 يرتفع إلى 6260 جنيهًا",
+     "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxQb1J4NUtacUlTTEt0MExXMXBqZmdOM1lGdVppTXJkaTlLcUx6bjd3aEE5dTBjd3h6WlNScXRvWHdqZ3hIbExQY2FNeHVDYWh5cHl0dllia3JsRmk4dzJYZFFfbjhwdHBfZnZJWmhGRExjUlNOZWlfZEtIRTJOOU53SXRPaGlWTDlGTW5aUnNtWVN1SW4wZ0RiTWFwN0hxZzIydmNJU2xxVTRYS2dMQ2g2QVkxM21vdUZ2bUY2eUpfYVRDbXhvRlZwOG5nSW9Dck9SQllta3l3WERkSlFjQXJCSXV6bU1NQTBfSUVKYkpFdVlEWmRSbFRGX3RMOHJlV2QyTXRQMzBIVUVfZVJHdFZQcFpoT211YWhMNl9FNlV4a2NELTlQMGtmdHRKc093MlllNkdZUm1VWEhNSFFmT3dGeElqU29peHZxS05KeG85cUVWc1FwLXJOb3RYcW1sVThMZEpfUFlpNU5WSkJYLVhjMHZHekdUQXl6bFg0UmlybzBQRVA3cTMyRjdfWmp0eDladHZsTlhVYlFrRGhsNlBfV2dNU2hKaUdxR0JoY3ZEeXVhOTUwQ29kSzB5X0VuUGVhamhvS2REdGNpcFBCVG1fakZTWHBEQQ?oc=5",
+     "source": "الجريدة العقارية",
+     "date": "2026-11-06",
+     "fp": "1d6e2a4d739a",
+     "seen": "2026-11-07T05:33+03:00",
      "rev": 0
     }
    ]
@@ -224,6 +224,16 @@
      "rev": 0
     },
     {
+     "id": "1c8a9abe3815",
+     "title": "تعرف على أبرز التحسينات الهيكلية في سوق المشتقات المالية السعودية",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04Umwzb2R3OWJZM3FvbElqS215SkQ1QWl4a1F1THkxRzdYTHplVzdaRmRjUjlzVENYejNjV3pVVThweGRKYUwwM2Jabk9EcFBhNmN3Sm9LTGRiM0pzamZhWTQzZElpX0RGSmc?oc=5",
+     "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+     "date": "2026-11-06",
+     "fp": "4bd2da80633b",
+     "seen": "2026-11-07T05:33+03:00",
+     "rev": 0
+    },
+    {
      "id": "6afadee99963",
      "title": "الأجانب يضخون 811 مليون ريال لشراء أسهم 160 شركة في سوق الأسهم السعودية في أسبوع.. تعرف على تفاصيل تحركاتهم الأسبوعية وأسماء الشركات التي اح…",
      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTURrUzA3c1owZmdvU3FZdlpsaG93Ty1FVGozTEtuZHgyallSZE11Rlc3Nm1JN05qaG5zN3l4YXBoOU1kSVlwZUQ5M2FKdDZNalZVYTNDY2RVYjl5YnRKaVMzd1pDV2JpVHFIb1BQb2dLVnJmUXFsNmQ0YmRkQzZoNjEzVkVURHloU1VZZjc3YXVmVzQ4dmFWa3BTRUlhUDRXYzlUZmdXMGNxMHNTOTFoMFJvOFd0RGVPQXRQZnFwdkNSWkgxUE5qaXQtTjZQWjhRbjg1TENVOERLbGc5VVo5Yg?oc=5",
@@ -241,16 +251,6 @@
      "date": "2026-11-06",
      "fp": "1f77fab13d6d",
      "seen": "2026-11-06T20:39+03:00",
-     "rev": 0
-    },
-    {
-     "id": "2050974b91ae",
-     "title": "تداول السعودية توافق على انتقال أرماح الرياضية ولدن للاستثمار إلى تاسي",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ITkIycDRSa3JZWXBydVF6U3FhSm14YmIwdUoyR29WTGQzT1lQN3BIQ2Q5cVhSUlgtN0NBQkV0RVFSRHZMNTIxTXAtMmFaclZlMTc2UmxhMEdYQmh1YmlqclhBUkVkOVNOWWc?oc=5",
-     "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-     "date": "2026-11-06",
-     "fp": "60e908e3151a",
-     "seen": "2026-11-07T01:45+03:00",
      "rev": 0
     }
    ]
