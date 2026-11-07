@@ -1,7 +1,7 @@
 {
  "v": 1,
- "id": "fa388d750d18",
- "fetched": "2026-11-07T12:39+03:00",
+ "id": "4e7fdb73cfd7",
+ "fetched": "2026-11-07T19:07+03:00",
  "items": {
   "world": {
    "en": [
@@ -152,16 +152,6 @@
      "rev": 4
     },
     {
-     "id": "5c61e073070f",
-     "title": "Saudi Arabia shares higher at close of trade; Tadawul All Share up 0.56%",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSkZZRXV6Q0ZBdC1NRDFTa1VoMFYxVkdFV0k2ME40UXA4SzV3V2JwRTlUZFRJMlN2VWxaenBzTUh6cnV5Q3pSVkFDTUNKUTBFRjF5WU5QYWdLUlJGMldpbFRjZXdtRzllaE9MUmpNNkFKbFYyNV9sSmNNTi1DWS1EX2g2RkU2bXFkMmk0Nkc0d3kzOHNyZW42cXZFa2FGazdoblp2SmFRM2liY1dDYUdNLWxFaF9ZV2pPQUViVG4xMEZNd0U?oc=5",
-     "source": "Investing.com UK",
-     "date": "2026-11-05",
-     "fp": "0fca39ea58ed",
-     "seen": "2026-11-07T12:39+03:00",
-     "rev": 0
-    },
-    {
      "id": "e2bde3ec3993",
      "title": "Saudi Arabia stocks higher at close of trade; Tadawul All Share up 1.65%",
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUUxPRzFwWXVtaDRNVUZNWHdkYXlzRmI1akRRODBRVExMQ0oxREJTUWpYU3ptd2xIMGU1TXJTZmFmRjFiWmtGR3RWdGFVY01fZlZKMFh6cGpmNjhLanlyTWp3QUtKcGw2SHplR2t4QnVuX3NoTVRvc0hUM2RSM0ZBOUx3NXhjX1lLeGpyc2dEbnk1SDY3UzlwZVpYOFRvWHRiUVdlY0J3MHNiVkhHcExJRDFqOUtMVHdER1ZqNWxUdVZEaUlR?oc=5",
@@ -183,13 +173,23 @@
     },
     {
      "id": "b8345b20e037",
-     "title": "Saudi Arabia shares higher at close of trade; Tadawul All Share up 1.65%",
+     "title": "Saudi Arabia shares higher at close of trade; Tadawul All Share up 1.65% By Investing.com",
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVUFySGpva191dE8xZllaajJxcndFcFVLbE1QZmJ1VDBPTmNhZDhhcm1WM0tqcWtfV1cyMnZadkdLX0ZwSjdITmxUaE1adFRQclFxQUVoWHhSSkpIWFZ6Tko5Y19VTzhsR2dGZ2NoREQwRWRaTWpIUjNIYUwxZUVadGh0aGdmVWJ4UTZMZEduUzVrRmlkVThXdkc4Yi1Ub3hJdGstSTMwaF9ZRUw0R3RMdFMweTYtRDZOREF5dzN3R0FqRVU?oc=5",
      "source": "Investing.com India",
      "date": "2026-11-04",
-     "fp": "b906065d2e8b",
+     "fp": "d830ed0de49f",
      "seen": "2026-11-07T01:45+03:00",
-     "rev": 1
+     "rev": 2
+    },
+    {
+     "id": "7d36003a39d1",
+     "title": "3 Private Deals Executed on the Saudi Stock Exchange, Valued at SAR 45.6 Million",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBKaTMzUFdEWTlCdmllZzZxaENVeXVjb2FRV2dnMkFkZmszcXl4b0JhUWZrcUV2bTZyd0JMMXpVRkVreUJWWWpwY05OVWxXQkRYUzRjaVVGYmRDcEctRnJrbDlhcGlhZzNHektLTDZ3?oc=5",
+     "source": "صحيفة مال",
+     "date": "2026-11-03",
+     "fp": "ea60fdfcf2e9",
+     "seen": "2026-11-07T19:07+03:00",
+     "rev": 0
     }
    ],
    "ar": [
@@ -204,13 +204,23 @@
      "rev": 1
     },
     {
-     "id": "5609725b0d32",
-     "title": "تعليق تداول أسهم 4 شركات جلسة اليوم",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DaEc4N3pMUWdEanJGZlhEdGRqRFAwNjVfU1I1NXh5d2RqRDJCd09TemdjSXJSYkNJMHZ2bzVENU5neV9DY3JQTlBBak1uM2h2SzJRc0JpYlpXWElaUnJxenRjVEFRTGpBLWc?oc=5",
+     "id": "e01618ec797c",
+     "title": "هيئة السوق تطرح مشروع القيود على التداولات الخوارزمية للاستطلاع",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5BaW5DS21kclR5Y2ZhaDZwUUVHeFZRNzVGcXdBbVBWOVo4ejIzWS1GR2padHFlRDFCMGY4b1k3SDhZZmZ1MjduMDQzSTZnem5hTVdRRDBMTmFpWTlpY2JEbDlhSjlIa1BzZnc?oc=5",
      "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
      "date": "2026-11-07",
-     "fp": "9a95d6732b9d",
-     "seen": "2026-11-07T12:39+03:00",
+     "fp": "f8954334d3ff",
+     "seen": "2026-11-07T19:07+03:00",
+     "rev": 0
+    },
+    {
+     "id": "b746bcd16634",
+     "title": "اليوم.. انتقال وبدء تداول حديد وطني في تاسي بسعر 1.82 ريال",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNZ1h1eC1oZHRudFJhdjc3X21SdHdGSzFkX2N1T1ROTk1lTThhSkNjTG96YW1udTR6a3B5UE9uSi0tWXh1bjZ4WUk1V1BBWmNDY1d1YjljUWVPdUtBZUdPQy1ONWNmd0IyVUE?oc=5",
+     "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+     "date": "2026-11-07",
+     "fp": "6d6d22198142",
+     "seen": "2026-11-07T19:07+03:00",
      "rev": 0
     },
     {
@@ -224,33 +234,23 @@
      "rev": 0
     },
     {
-     "id": "25090d5c32dc",
-     "title": "رئيس تداول: نستهدف تعزيز الترابط بين السوق السعودية ونظيرتها الصينية",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZeUZtVDdKZk9hX0RLVEttVWdFbHRIV29wdDEyRkpsUUU2MmppalJSNWNzSkRVeU90LWdYWVlSU0dOQTF0a2R3M0JzOHJPY0EzSHhqc3lDZXkwN1NWUXctOFB5MHg2a3Q1VlE?oc=5",
+     "id": "c4d4a3336cde",
+     "title": "إدانة 15 مخالفاً لنظام السوق وتغريمهم 10.7 مليون ريال وإلزامهم ومستثمرين آخرين بدفع 12 مليون ريال",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE44UE1xMWc2dG4zcC1JMlFuX01TbktlNzlxNksyMGtYdjF3TzIwWmIzVHViR2Y0NW9Oc1BmYmNLTkFNT3YySFdFR1d2MjVrMDd5OG9pMzBnOTJ6dlpXZ21KTkgwLTN2bTVQRWc?oc=5",
      "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-     "date": "2026-11-06",
-     "fp": "49d252ea8627",
-     "seen": "2026-11-07T01:45+03:00",
+     "date": "2026-11-07",
+     "fp": "3e4d2d32c0c8",
+     "seen": "2026-11-07T19:07+03:00",
      "rev": 0
     },
     {
-     "id": "8a51afc2ddfe",
-     "title": "السوق السعودية ترتفع 1.7 % وتسجل أعلى إغلاق في أسبوعين",
-     "url": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxPLWs0Y2xoc3VQOG00MEY3Q0NqSkF2bXh2c1ZSTHRrc0ZOTURBNl9sUWpVQ19xLU91bVJxREJBZFg3ZmMtbURJTUltTm9Qd2JEeHdrTW9Pc0ZFdTBidFNyVXhjUUVocmVrRkZheDh6aTF0cWxWanI5aUxscFAzZFo2N2kxazJ0VUJ6aFlvUkUtRDY0STFsNkg0Nnp6RHVkTlVQbHBONVdMTWlMODBEWUVPY2IweFFWdE5rcnEzTmVJandGQmdMVTB5Nm1hNGNZV0FYOVltajlPdFFScDhwWlFvY2RRZ1ktZmJTbzRiVTlabHh0UjN2RE1ROFItS0RzUXNYaDdUdldIN3N3WkFsYW9qeXVEVlpRckNjeXJWYnhhZ3VhNk5JWGhqa0l6RTVWSmJFZ1pFRVo4TVkxbzZNU1BROW9lRVVyTlM5ZXA1Y0xNUU1WaHpFYklqYnlkQ2tJeThINHBkZHRsdUEwWmlGRWxEQ2EteVZ2Znh6Qm5MQXZhTE8wWGIyaEZwUzBmQnFBTzIwSmlZZGVvWVdndzZfa0tGcklMMUtuVGowdzZuT3UxVjgzWVdfakJ2OU1VRl9TdXdzQ1kyOG05YUdEWG1LVEl0aVlWUnB1Sk0?oc=5",
-     "source": "الشرق الأوسط",
-     "date": "2026-11-06",
-     "fp": "22a24f249400",
-     "seen": "2026-11-06T01:11+03:00",
-     "rev": 1
-    },
-    {
-     "id": "6afadee99963",
-     "title": "الأجانب يضخون 811 مليون ريال لشراء أسهم 160 شركة في سوق الأسهم السعودية في أسبوع.. تعرف على تفاصيل تحركاتهم الأسبوعية وأسماء الشركات التي اح…",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTURrUzA3c1owZmdvU3FZdlpsaG93Ty1FVGozTEtuZHgyallSZE11Rlc3Nm1JN05qaG5zN3l4YXBoOU1kSVlwZUQ5M2FKdDZNalZVYTNDY2RVYjl5YnRKaVMzd1pDV2JpVHFIb1BQb2dLVnJmUXFsNmQ0YmRkQzZoNjEzVkVURHloU1VZZjc3YXVmVzQ4dmFWa3BTRUlhUDRXYzlUZmdXMGNxMHNTOTFoMFJvOFd0RGVPQXRQZnFwdkNSWkgxUE5qaXQtTjZQWjhRbjg1TENVOERLbGc5VVo5Yg?oc=5",
-     "source": "صحيفة مال",
-     "date": "2026-11-06",
-     "fp": "2d80905dac1c",
-     "seen": "2026-11-07T01:45+03:00",
+     "id": "11504bfae16c",
+     "title": "انتقال وإدراج أسهم لدن في تاسي الإثنين المقبل",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55bVAzcS1BYm0zR0lMSGdJdTR5NjV6VzExLWFYMDdSQW54N3k2dWp1OFNJeUZXU3hhZWNBRFRWTTRBVEVkX3ZIckJSN0JGTldVR25mSGdHaFZXandlRjlWb2N2ODFybGYtTlE?oc=5",
+     "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+     "date": "2026-11-07",
+     "fp": "35677c3b97dd",
+     "seen": "2026-11-07T19:07+03:00",
      "rev": 0
     }
    ]
