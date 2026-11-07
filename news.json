@@ -1,10 +1,20 @@
 {
  "v": 1,
- "id": "b5b37ed3b927",
- "fetched": "2026-11-07T05:33+03:00",
+ "id": "fa388d750d18",
+ "fetched": "2026-11-07T12:39+03:00",
  "items": {
   "world": {
    "en": [
+    {
+     "id": "980caea060cd",
+     "title": "No Surprise As Bank Of England Takes Action To Keep Rising Prices At Bay",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYUxKZXVmNlBSemZaZXVTbnFOeUFaRmN4Ujh4aXJDNTVUV3lSQl8tUjBwbm1zU1g0NlFTWnoyRXctNTE2TzRKeXp3OTF5dTkwc2otdlBXcXdHYWoyS2ZOczBjMVpqQnFiRC1LNjBMcUtiYUVWeU5HQ3JodmtLWEE0c2lab1RPRGVsLURKSA?oc=5",
+     "source": "Forbes",
+     "date": "2026-11-05",
+     "fp": "3532988b86e1",
+     "seen": "2026-11-07T12:39+03:00",
+     "rev": 0
+    },
     {
      "id": "841f6c7d8d78",
      "title": "FTSE 100 poised for strong gains ahead of BoE rate decision",
@@ -46,27 +56,37 @@
      "rev": 0
     },
     {
-     "id": "0776e08bca8f",
-     "title": "The Fed second oil shock: inflation, interest rates and the December decision",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQY2kwbTRDMFBoa2tnZ3hzWUp3Rm9EMGZsc2JaWU1Na2lWTEV2bTdxZ2FsX3lPQUo0YjVSYjBCMFY1eDl6S0FtRTVNbnoxZlpRcXBnQnE0cEVRQVhrM2lTQktkeTljMWNha1lpbXN6cjkzU1BrMHJUc2NOYjJRQTd2LXBiaWdiR1JVdFVELTlQWHhtY0EyVjA3WG1RTlZtWldNSkdtU0lkQ2Vhdw?oc=5",
-     "source": "Equiti Global",
-     "date": "2026-10-30",
-     "fp": "5eee49c62d00",
-     "seen": "2026-11-06T20:39+03:00",
-     "rev": 0
-    },
-    {
-     "id": "e5843382d51c",
-     "title": "The Fed’s decision to hold interest rates steady helps Warsh deny Tehran a say over monetary policy",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbm0yc2JmRUdMMXdCcEZnaEFNeVNQaXJDN1JKTDZHTFVna3h0YUFybHFIcGZuOFpjbVk5WUZvNEhkVFpXR3lyaVl6M2RrTEZFeGVUU05VSmVEeDdSaGZlV1BzOHB2ZEJmMUpubWtkM3RFQTRiUDdSaWxIZFVRcWQwWWlOZnE3bG9zbXlpSmtNcVdtUQ?oc=5",
+     "id": "df4eb53cba5d",
+     "title": "Kevin Warsh is managing US debt costs not inflation as interest rates risk topping GDP growth soon",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVkphbi1JbkpNU1htVTU5TDJFajBlMHktbHlwb1lVdGE5LVN3ZlVoRkhIa1ptcDU4Y0hIajRJYnhnUHdaQ1Q2MjRCcTNhSFZLODFsbzNyMGt6V0QtMFRqWEdCVDkwWDhuWTJOdXF4WkxFX3I3VUNpdUNBV3d0OUtjeEJXRUtCWjEzVE1kampUbXEzampzQUh5eVNaNU1sQ2VWS3ZPVGR4V2lJdUJqbjRhdU5yZGhXQW03UDZwb196QVdfbzB5aUM1b0lPRTRtZ2M?oc=5",
      "source": "Fortune",
-     "date": "2026-10-29",
-     "fp": "112a13b4ca3d",
-     "seen": "2026-11-06T20:39+03:00",
+     "date": "2026-11-01",
+     "fp": "4d05f182c3ad",
+     "seen": "2026-11-07T12:39+03:00",
      "rev": 0
     }
    ],
    "ar": [
+    {
+     "id": "3eedcd265698",
+     "title": "أنت صانع القرار .. هل يحرك الفيدرالي الفائدة مع ارتفاع النفط؟",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83R29NeEZUdDRLUTk5NzdSc21JMk16MG9CVXRTQXR0UzZmMmExNWs3SUNvakRyNjVDV0R3cGtycC1zTnFkR09MRWFUS0doUnVVTlJXc0xqYi10aVpIajZFekpEbzNaMEd4dHc?oc=5",
+     "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+     "date": "2026-11-07",
+     "fp": "9d4d52b57113",
+     "seen": "2026-11-07T05:33+03:00",
+     "rev": 1
+    },
+    {
+     "id": "b4e837c40710",
+     "title": "محللون لـ أرقام: تثبيت الفائدة الأقرب في أول اجتماع بقيادة وارش.. والتضخم يُبقي التشديد مطروحاً",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VcEU1QXVlRU41UlM1b2dEZExJZWlSc3pKOEhVMEFBVWxmNHM1cXJMM1JDaU9DYnhEVTBnTk9SdzFpSXc0VUM2LUtLU1QxWlNmd0pLdERnYU1FMnJtczgzQzF4d1doUnZhcXc?oc=5",
+     "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+     "date": "2026-11-06",
+     "fp": "d36b1d1a4e7a",
+     "seen": "2026-11-07T12:39+03:00",
+     "rev": 0
+    },
     {
      "id": "272ceaa82372",
      "title": "الأسهم الأوروبية ترتفع بحذر وسط ترقب قرار الفائدة",
@@ -74,16 +94,6 @@
      "source": "الشرق الأوسط",
      "date": "2026-11-06",
      "fp": "83e1ea30a7a8",
-     "seen": "2026-11-07T05:33+03:00",
-     "rev": 0
-    },
-    {
-     "id": "3eedcd265698",
-     "title": "أنت صانع القرار .. هل يحرك الفيدرالي الفائدة مع ارتفاع النفط؟",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83R29NeEZUdDRLUTk5NzdSc21JMk16MG9CVXRTQXR0UzZmMmExNWs3SUNvakRyNjVDV0R3cGtycC1zTnFkR09MRWFUS0doUnVVTlJXc0xqYi10aVpIajZFekpEbzNaMEd4dHc?oc=5",
-     "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-     "date": "2026-11-06",
-     "fp": "0af02adca0d0",
      "seen": "2026-11-07T05:33+03:00",
      "rev": 0
     },
@@ -116,16 +126,6 @@
      "fp": "9dc9b37d517c",
      "seen": "2026-11-06T20:39+03:00",
      "rev": 0
-    },
-    {
-     "id": "0508922819f2",
-     "title": "سعر الذهب اليوم الجمعة 6 نوفمبر 2026.. عيار 21 يرتفع إلى 6260 جنيهًا",
-     "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxQb1J4NUtacUlTTEt0MExXMXBqZmdOM1lGdVppTXJkaTlLcUx6bjd3aEE5dTBjd3h6WlNScXRvWHdqZ3hIbExQY2FNeHVDYWh5cHl0dllia3JsRmk4dzJYZFFfbjhwdHBfZnZJWmhGRExjUlNOZWlfZEtIRTJOOU53SXRPaGlWTDlGTW5aUnNtWVN1SW4wZ0RiTWFwN0hxZzIydmNJU2xxVTRYS2dMQ2g2QVkxM21vdUZ2bUY2eUpfYVRDbXhvRlZwOG5nSW9Dck9SQllta3l3WERkSlFjQXJCSXV6bU1NQTBfSUVKYkpFdVlEWmRSbFRGX3RMOHJlV2QyTXRQMzBIVUVfZVJHdFZQcFpoT211YWhMNl9FNlV4a2NELTlQMGtmdHRKc093MlllNkdZUm1VWEhNSFFmT3dGeElqU29peHZxS05KeG85cUVWc1FwLXJOb3RYcW1sVThMZEpfUFlpNU5WSkJYLVhjMHZHekdUQXl6bFg0UmlybzBQRVA3cTMyRjdfWmp0eDladHZsTlhVYlFrRGhsNlBfV2dNU2hKaUdxR0JoY3ZEeXVhOTUwQ29kSzB5X0VuUGVhamhvS2REdGNpcFBCVG1fakZTWHBEQQ?oc=5",
-     "source": "الجريدة العقارية",
-     "date": "2026-11-06",
-     "fp": "1d6e2a4d739a",
-     "seen": "2026-11-07T05:33+03:00",
-     "rev": 0
     }
    ]
   },
@@ -143,22 +143,22 @@
     },
     {
      "id": "fe7ae00a9541",
-     "title": "Saudi Arabia shares higher at close of trade; Tadawul All Share up 0.56%",
+     "title": "Saudi Arabia shares higher at close of trade; Tadawul All Share up 0.56% By Investing.com",
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMnVoR1pTbXI5Qmxrb08wNmk3TVJHemxhempmbHl4dVotcWlIZnhUakpQNG5MbFg0VzNEbzJaRlkxSUdRTzRtRm5sMm9NUnRWVXFwYzhDUEE5OVA2Z3hDZzA0S3lYMkRIWmhNUjVCVGFHbF95b1N4eVB1RkdGT2FfTHg4NWJPa0FoSF9vdnlpdXBESmVsaElWSURENnRRUUFFdGFpUmM1SlFKaTVlM09ic3pDcHo5amdJOV9NWmMxRzQwQkE?oc=5",
      "source": "Investing.com India",
      "date": "2026-11-05",
-     "fp": "73ff8c57aa45",
+     "fp": "43f50a9ac1f2",
      "seen": "2026-11-06T01:11+03:00",
-     "rev": 3
+     "rev": 4
     },
     {
-     "id": "0635d53df25f",
-     "title": "Saudi Tadawul Edges Higher as All Shares Index Rises 0.54%",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZUdic0QwVkxBVFdVRTZvbnB5NnNXOUdDUUR1TU9xQlhGbWFhTUFfNFVNU3Y0SDJPNlRCdW82QlBrS1hFeFpZVkpEN0s1WmpSRVVpMWFRMS1DXzRLcy1adGlHcWtqbm85bE00Y015R3B0NHRGclBYTDMtWEhzOUQzZTE4TDY1M1Z4OEZLSzdOY0R5ZnJvU2FQX2poY243UE1qdklQVDJpNEJiWnZKcy1VT3diZlliMFJBV2ktcA?oc=5",
-     "source": "Business Upturn",
+     "id": "5c61e073070f",
+     "title": "Saudi Arabia shares higher at close of trade; Tadawul All Share up 0.56%",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSkZZRXV6Q0ZBdC1NRDFTa1VoMFYxVkdFV0k2ME40UXA4SzV3V2JwRTlUZFRJMlN2VWxaenBzTUh6cnV5Q3pSVkFDTUNKUTBFRjF5WU5QYWdLUlJGMldpbFRjZXdtRzllaE9MUmpNNkFKbFYyNV9sSmNNTi1DWS1EX2g2RkU2bXFkMmk0Nkc0d3kzOHNyZW42cXZFa2FGazdoblp2SmFRM2liY1dDYUdNLWxFaF9ZV2pPQUViVG4xMEZNd0U?oc=5",
+     "source": "Investing.com UK",
      "date": "2026-11-05",
-     "fp": "746828f70b4a",
-     "seen": "2026-11-06T01:11+03:00",
+     "fp": "0fca39ea58ed",
+     "seen": "2026-11-07T12:39+03:00",
      "rev": 0
     },
     {
@@ -183,16 +183,46 @@
     },
     {
      "id": "b8345b20e037",
-     "title": "Saudi Arabia shares higher at close of trade; Tadawul All Share up 1.65% By Investing.com",
+     "title": "Saudi Arabia shares higher at close of trade; Tadawul All Share up 1.65%",
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVUFySGpva191dE8xZllaajJxcndFcFVLbE1QZmJ1VDBPTmNhZDhhcm1WM0tqcWtfV1cyMnZadkdLX0ZwSjdITmxUaE1adFRQclFxQUVoWHhSSkpIWFZ6Tko5Y19VTzhsR2dGZ2NoREQwRWRaTWpIUjNIYUwxZUVadGh0aGdmVWJ4UTZMZEduUzVrRmlkVThXdkc4Yi1Ub3hJdGstSTMwaF9ZRUw0R3RMdFMweTYtRDZOREF5dzN3R0FqRVU?oc=5",
      "source": "Investing.com India",
      "date": "2026-11-04",
-     "fp": "d830ed0de49f",
+     "fp": "b906065d2e8b",
      "seen": "2026-11-07T01:45+03:00",
-     "rev": 0
+     "rev": 1
     }
    ],
    "ar": [
+    {
+     "id": "d2ee68f17a70",
+     "title": "لماذا تتجه هيئة السوق لتقييد التداولات الخوارزمية؟ وما أثرها على السيولة؟",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11LWRPci1RUkwxUHFBYmRVb1o1VXNCTkpFeHAybFRXU2Yxb3dTOTlLNThvbl8tdzNURG9Vd1pDR3h2R1lhcGxEdjJBam56LTcyMlplblhVdngyc01zZkZYS01SVUNxTTJuTnc?oc=5",
+     "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+     "date": "2026-11-07",
+     "fp": "723b58914a7a",
+     "seen": "2026-11-07T01:45+03:00",
+     "rev": 1
+    },
+    {
+     "id": "5609725b0d32",
+     "title": "تعليق تداول أسهم 4 شركات جلسة اليوم",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DaEc4N3pMUWdEanJGZlhEdGRqRFAwNjVfU1I1NXh5d2RqRDJCd09TemdjSXJSYkNJMHZ2bzVENU5neV9DY3JQTlBBak1uM2h2SzJRc0JpYlpXWElaUnJxenRjVEFRTGpBLWc?oc=5",
+     "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+     "date": "2026-11-07",
+     "fp": "9a95d6732b9d",
+     "seen": "2026-11-07T12:39+03:00",
+     "rev": 0
+    },
+    {
+     "id": "df8310992f5e",
+     "title": "تعليق تداول سهم المتحدة للتأمين لحين صدور قرار المحكمة حيال افتتاح إجراء التصفية",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMQnRaQTZHam1VcVQ5QktOaXlxSVlRRkx4cDNzWkppX2QybzNIRWtXcUJkTWFzM3VsMGxTUGwwV3VQLVVwMTdSRjdiTEdSUDVMM29WT2t5dVlwZWNPcElmMTk2QXJWeWhnb3c?oc=5",
+     "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
+     "date": "2026-11-07",
+     "fp": "84bdd19e665d",
+     "seen": "2026-11-07T12:39+03:00",
+     "rev": 0
+    },
     {
      "id": "25090d5c32dc",
      "title": "رئيس تداول: نستهدف تعزيز الترابط بين السوق السعودية ونظيرتها الصينية",
@@ -214,26 +244,6 @@
      "rev": 1
     },
     {
-     "id": "d2ee68f17a70",
-     "title": "لماذا تتجه هيئة السوق لتقييد التداولات الخوارزمية؟ وما أثرها على السيولة؟",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11LWRPci1RUkwxUHFBYmRVb1o1VXNCTkpFeHAybFRXU2Yxb3dTOTlLNThvbl8tdzNURG9Vd1pDR3h2R1lhcGxEdjJBam56LTcyMlplblhVdngyc01zZkZYS01SVUNxTTJuTnc?oc=5",
-     "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-     "date": "2026-11-06",
-     "fp": "dbd86feffc7f",
-     "seen": "2026-11-07T01:45+03:00",
-     "rev": 0
-    },
-    {
-     "id": "1c8a9abe3815",
-     "title": "تعرف على أبرز التحسينات الهيكلية في سوق المشتقات المالية السعودية",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04Umwzb2R3OWJZM3FvbElqS215SkQ1QWl4a1F1THkxRzdYTHplVzdaRmRjUjlzVENYejNjV3pVVThweGRKYUwwM2Jabk9EcFBhNmN3Sm9LTGRiM0pzamZhWTQzZElpX0RGSmc?oc=5",
-     "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-     "date": "2026-11-06",
-     "fp": "4bd2da80633b",
-     "seen": "2026-11-07T05:33+03:00",
-     "rev": 0
-    },
-    {
      "id": "6afadee99963",
      "title": "الأجانب يضخون 811 مليون ريال لشراء أسهم 160 شركة في سوق الأسهم السعودية في أسبوع.. تعرف على تفاصيل تحركاتهم الأسبوعية وأسماء الشركات التي اح…",
      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTURrUzA3c1owZmdvU3FZdlpsaG93Ty1FVGozTEtuZHgyallSZE11Rlc3Nm1JN05qaG5zN3l4YXBoOU1kSVlwZUQ5M2FKdDZNalZVYTNDY2RVYjl5YnRKaVMzd1pDV2JpVHFIb1BQb2dLVnJmUXFsNmQ0YmRkQzZoNjEzVkVURHloU1VZZjc3YXVmVzQ4dmFWa3BTRUlhUDRXYzlUZmdXMGNxMHNTOTFoMFJvOFd0RGVPQXRQZnFwdkNSWkgxUE5qaXQtTjZQWjhRbjg1TENVOERLbGc5VVo5Yg?oc=5",
@@ -241,16 +251,6 @@
      "date": "2026-11-06",
      "fp": "2d80905dac1c",
      "seen": "2026-11-07T01:45+03:00",
-     "rev": 0
-    },
-    {
-     "id": "b746bcd16634",
-     "title": "اليوم.. انتقال وبدء تداول حديد وطني في تاسي بسعر 1.82 ريال",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNZ1h1eC1oZHRudFJhdjc3X21SdHdGSzFkX2N1T1ROTk1lTThhSkNjTG96YW1udTR6a3B5UE9uSi0tWXh1bjZ4WUk1V1BBWmNDY1d1YjljUWVPdUtBZUdPQy1ONWNmd0IyVUE?oc=5",
-     "source": "ارقام : اخبار ومعلومات سوق الأسهم السعودي - تاسي",
-     "date": "2026-11-06",
-     "fp": "1f77fab13d6d",
-     "seen": "2026-11-06T20:39+03:00",
      "rev": 0
     }
    ]
